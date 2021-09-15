@@ -8,5 +8,5 @@ hello world
 hello world
 hello world
 hello world first commit
-hello world
+hello world hot-fix first commit
 hello world
