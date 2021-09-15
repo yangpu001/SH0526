@@ -10,3 +10,4 @@ hello world
 hello world first commit
 hello world hot-fix first commit
 hello world
+hot-fix second commit
